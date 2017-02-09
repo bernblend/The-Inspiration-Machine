@@ -1,5 +1,6 @@
 /**********************************************************  INSPIRATION MACHINE: POWERED BY CHOICE & CHANCE ***************************************************************  original from bErNbLeNd  *************************************************************************************************************
         
+        
     
         Hello fellow programmer, my engineer assured me 
         you would arrive.
